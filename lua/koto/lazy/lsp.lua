@@ -65,6 +65,7 @@ return {
                 "gopls",
                 "vtsls",
                 "tailwindcss",
+                "html",
             },
             automatic_enable = true,
         })
